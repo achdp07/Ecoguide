@@ -1,0 +1,6 @@
+{
+  "name": "Three Cities Storytelling Website",
+  "description": "An immersive, scroll-driven digital museum exhibit celebrating the historical heritage of Chinguetti, Ghardaïa, and Byblos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
